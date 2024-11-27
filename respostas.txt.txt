@@ -7,3 +7,6 @@ B - O sistema de versão distribuida tem a vantagem dos clientes terem acesso ao
  Contem as informaºões necessarias para entender o objetivo do projeto
  
  F - As staches permitem armazenar as modificações feitas no nosso deretorio de trabalho
+ 
+ H- git rebase permite alterar com facilidade uma variedade de commits modificando o historico do repositorio
+ 
