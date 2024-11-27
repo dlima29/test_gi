@@ -1,0 +1,2 @@
+B - O sistema de versão distribuida tem a vantagem dos clientes terem acesso ao historico do projeto e todas as suas versões
+ permite a colaboração de com diversos utiizadores em diferentes projetos
