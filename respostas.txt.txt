@@ -3,3 +3,5 @@ B - O sistema de versão distribuida tem a vantagem dos clientes terem acesso ao
  
  C- o merge é a junão de duas branchs que reconcilia as varias alterações feitas num conjunto de ficheiros
  
+ E - Ficheiro readme.md é um tipo de ficheiro com extensão MarkDown (Que é uma ferramenta de conversão de texto para html
+ Contem as informaºões necessarias para entender o objetivo do projeto
